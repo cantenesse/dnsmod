@@ -1,0 +1,6 @@
+domain: 
+  name: example.com
+  server: ns1.example.com
+  tsig: 
+  ttl: 300
+  
